@@ -1,0 +1,117 @@
+body{
+  background-color: #FFFFFF;
+}
+.container{
+  flex-direction: column;
+  display: unset;
+  color: black;
+  padding: 100px;
+  margin-left: 70px;
+}
+#modernText{
+  width: 372px;
+  height: 216px;
+  font-weight: bolder;
+  letter-spacing: -3%;
+  font-size: 54;
+  font-family: Noto Serif JP;
+}
+
+.certification{
+padding: 80px;
+  background-color: #F4F6F6;
+margin-top: 10px;
+margin-bottom: 100px;
+padding-bottom: 150px;
+}
+.firstRow{
+  justify-content: space-around;
+  justify-content: center;
+  margin-right: 38px;
+}
+.row{  
+
+margin-left: 70px;
+}
+
+.nav-link{
+  color: black;
+}
+.navbar-brand{
+  color: black;
+}
+
+
+.aboutPage{
+  padding: 70px;
+  
+}
+
+.secondNav{
+  align-content: center;
+margin-left: auto;
+margin-right: auto;
+}
+.containerClient{
+  background-color: #F4F6F6;
+
+}
+.textLine{
+  margin-top: 100px;
+}
+.containerFooter{
+  background-color: #244D4D;
+}
+#startBusiness{
+  margin-top: 150px;
+  padding: 100px;
+  width: 604px;
+  height: 120px;
+  color: white;
+}
+.containerNew{
+  background-color: #244D4D;
+  color: white;
+}
+.gorsel {
+position: relative;
+top: 140px;
+z-index: 10;
+}
+.card{
+position: relative;
+  border: none;
+  background-color: #E5E5E5;
+  top: 0px;
+  margin-bottom: 150px;
+}
+#prod{
+  margin-left: 170px;
+}
+
+.productsClass{
+  background-color: white;
+}
+.container-fluid{
+  background-color: white;
+}
+.firstBlur{
+  width: 100%;
+  position: relative;
+}
+.texting{
+  position: absolute;
+  top: 170px;
+  left: 70px;
+  color: black;
+}
+#dots{
+  width: 100px;
+  height: 116px;
+}
+#maskGroup{
+margin-left: 300px;
+width: 100px;
+height: 100px;
+align-self: flex-end;
+}
